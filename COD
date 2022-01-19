@@ -2,4 +2,6 @@ class COD{
     public static void main(String args[]){  
      System.out.println("implemented COD");  
     }  
+System.out.println("made some changes COD");
+
 }  
